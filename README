@@ -1,0 +1,7 @@
+This is a repository that includes UNIX desktop userspace programs and configuration files that are customized to my personal taste and needs.
+dwm+dmenu+st with dark solarized theme. slock for locking the screen.
+
+----
+TODO:
+- Add dotfiles (.tmux.conf, init.vim...)
+- Implement dark/light theme switch for entire desktop (not just st)
