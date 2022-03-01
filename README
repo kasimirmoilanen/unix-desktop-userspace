@@ -2,6 +2,7 @@ This is a repository that includes UNIX desktop userspace programs and configura
 dwm+dmenu+st with dark solarized theme, slock for locking the screen.
 ----
 Dependencies:
+C compiler
 Xlib header files
 [Optional] Terminus font
 [Optional] Unifont font
