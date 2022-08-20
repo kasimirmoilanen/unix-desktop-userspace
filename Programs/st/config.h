@@ -5,11 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "terminus:pixelsize=14:antialias=false:autohint=true";
+static char *font = "terminus:pixelsize=16:antialias=false:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-  	"unifont:pixelsize=14:antialias=false:autohint=true",
-	"Liberation Mono:pixelsize=14:antialias=false:autohint=true",
+  	"unifont:pixelsize=16:antialias=false:autohint=true",
+	"Liberation Mono:pixelsize=16:antialias=false:autohint=true",
 };
 
 static int borderpx = 2;
